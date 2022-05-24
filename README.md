@@ -23,13 +23,21 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop:
+![](https://github.com/machetio7/machetio7.time-traking.io/blob/master/assets/desktop-desing.png)
+
+Tablet:
+![](https://github.com/machetio7/machetio7.time-traking.io/blob/master/assets/tablet-desing.png)
+
+Móvil:
+![](https://github.com/machetio7/machetio7.time-traking.io/blob/master/assets/movil-desing.png)
+
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/machetio7/machetio7.time-traking.io.git](https://your-solution-url.com)
+- Live Site URL: [https://machetio7.github.io/machetio7.time-traking.io/](https://your-live-site-url.com)
 
 ## My process
 

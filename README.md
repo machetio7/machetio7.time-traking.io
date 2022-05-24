@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop:
+
 ![](https://github.com/machetio7/machetio7.time-traking.io/blob/master/assets/desktop-desing.png)
 
-Tablet:
+
 ![](https://github.com/machetio7/machetio7.time-traking.io/blob/master/assets/tablet-desing.png)
 
-Móvil:
+
 ![](https://github.com/machetio7/machetio7.time-traking.io/blob/master/assets/movil-desing.png)
 
 
